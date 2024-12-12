@@ -1,0 +1,23 @@
+.navigationbar
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(#13181d,#20212e,#341b47);
+    font-family: 'Montserrat' ,sans-serif;
+}
+.divdroite
+{
+    margin-right: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 25px;
+    color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.divgauche
+{
+    margin-left: 10px;
+    color:darkslateblue
+}
